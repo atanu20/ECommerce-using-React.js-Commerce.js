@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Benne&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Benne', serif;
+}
+.home{
+  padding: 100px 0;
+}
+.home .card{
+  height: 450px;
+}
+.home .card img{
+  width: 100%;
+  height: 270px;
+  
+}
+.cart-page{
+  padding: 150px 0;
+}
+.cart-img{
+  width: 150px;
+  height: 150px;
+}
+.checkout{
+  padding: 150px 0;
+}
